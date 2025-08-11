@@ -19,7 +19,7 @@
 - Do reach out if you need someone to work on a mobile app :)
 
 ## ✨ Fun Facts about me
-- Not the biggest fan coding but here I am
+- Not the biggest fan of coding but here I am
 - I adore anime, food & cycling in the gym
 <!--
 **DiliniMW/DiliniMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
